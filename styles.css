@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(19, 134, 63);
+    text-align: center
+}
+
+h1 {
+    color: rgb(10, 62, 78)
+}
+
+.friend {
+    background-color: rgb(8, 63, 63);
+}
+
+.friend h3 {
+    text-transform: uppercase;
+}
+
+.friend {
+    color: rgb(11, 214, 112);
+}
